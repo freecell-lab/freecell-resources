@@ -8,3 +8,5 @@ A general FreeCell reference covering rules, history, terminology and variants:
 https://freecell.wiki/
 
 https://freecellnow.com/freecell-deal-difficulty/
+
+https://fc-solve.shlomifish.org/js-fc-solve/text/
